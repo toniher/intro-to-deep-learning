@@ -1,6 +1,16 @@
 # Custom
 data/
 
+# Colab / notebook execution
+wandb/
+lightning_logs/
+breast-cancer-classification/
+*_output.ipynb
+kaggle.json
+.netrc
+colab-run-log.md
+colab-test-output/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
